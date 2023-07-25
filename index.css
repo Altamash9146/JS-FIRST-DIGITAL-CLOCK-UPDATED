@@ -382,9 +382,12 @@ body {
     .set1{
         position: static;
         margin-bottom: inherit;
+        width: 213%;
     }
     .box2{
         position: static;
+        width: 217%;
+        text-align: center;
     }
     .good1{
         position: static;
